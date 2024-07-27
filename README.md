@@ -40,19 +40,4 @@ This project is a hotel booking chatbot built using Node.js and Express, integra
    npm start
    ```
 
-## Usage
-
-[Provide instructions on how to use the bot, including any necessary setup steps for users]
-
-## API Endpoints
-
-[List and describe the main API endpoints of your application]
-
-## Testing
-
-Comprehensive testing and debugging have been conducted to ensure high code quality and system reliability. To run the tests:
-
-```
-npm test
-```
 
